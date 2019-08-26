@@ -1,0 +1,34 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "_async-validator@1.8.5@async-validator": "^1.8.5",
+    "_babel-helper-vue-jsx-merge-props@2.0.3@babel-helper-vue-jsx-merge-props": "^2.0.3",
+    "_babel-runtime@6.26.0@babel-runtime": "^6.26.0",
+    "_core-js@2.5.7@core-js": "^2.5.7",
+    "_deepmerge@1.5.2@deepmerge": "^1.5.2",
+    "_element-ui@2.4.10@element-ui": "^2.4.10",
+    "_normalize-wheel@1.0.1@normalize-wheel": "^1.0.1",
+    "_regenerator-runtime@0.11.1@regenerator-runtime": "^0.11.1",
+    "_resize-observer-polyfill@1.5.0@resize-observer-polyfill": "^1.5.0",
+    "_throttle-debounce@1.1.0@throttle-debounce": "^1.1.0",
+    "async-validator": "^1.8.5",
+    "babel-helper-vue-jsx-merge-props": "^2.0.3",
+    "babel-runtime": "^6.26.0",
+    "deepmerge": "^1.5.2",
+    "element-ui": "^2.4.10",
+    "normalize-wheel": "^1.0.1",
+    "regenerator-runtime": "^0.11.1",
+    "resize-observer-polyfill": "^1.5.0",
+    "throttle-debounce": "^1.1.0",
+    "core-js": "^2.5.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
